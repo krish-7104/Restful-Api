@@ -31,7 +31,7 @@ const getAllProducts = async (req, res) => {
   res.status(200).json({ data, hits: data.length });
 };
 const getAllProductsTesting = async (req, res) => {
-  const data = await Product.find(req.query).sort("-name");
+  const data = await Product.find(req.query);
   res.status(200).json(data);
 };
 
