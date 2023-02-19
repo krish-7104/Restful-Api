@@ -1,0 +1,43 @@
+[
+  {
+    "name": "iphone 11",
+    "price": 80000,
+    "company": "apple",
+    "featured": true,
+    "rating": 4.1
+  },
+  {
+    "name": "iphone 12",
+    "price": 90000,
+    "company": "apple",
+    "rating": 4.3
+  },
+  {
+    "name": "iphone 14",
+    "price": 120000,
+    "company": "apple",
+    "featured": true,
+    "rating": 4.0
+  },
+  {
+    "name": "ipad air m1",
+    "price": 65000,
+    "feature": true,
+    "company": "apple",
+    "rating": 4.7
+  },
+  {
+    "name": "realme gt me",
+    "price": 24000,
+    "feature": true,
+    "company": "realme",
+    "rating": 4.9
+  },
+  {
+    "name": "dell vostro 5415",
+    "price": 60000,
+    "feature": true,
+    "company": "dell",
+    "rating": 4.3
+  }
+]

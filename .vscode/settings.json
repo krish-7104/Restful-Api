@@ -1,0 +1,7 @@
+{
+  "dotenv.enableAutocloaking": false,
+  "search.actionsPosition": "right",
+  "zenMode.fullScreen": true,
+  "editor.fontFamily": "fira code, Consolas, 'Courier New', monospace",
+  "editor.fontVariations": false
+}
